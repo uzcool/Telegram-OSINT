@@ -1,7 +1,7 @@
 # Telegram-OSINT
 <br></br>
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <br></br>
 <p>I have created this separate Repository for Telegram as there is a large amount of resources available. Remember if you are investigating / researching on the actual platform to beware of your own OPSEC. Some BOTS will ask you for your Telegram phone number and you should think OPSEC before you decide to use the BOT.
@@ -91,8 +91,10 @@
   <p>Lyzem is a search engine created specifically for Telegram.</p>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram Nearby Map</a></li>
   <p>Discover the location of nearby Telegram users.</p>
- <li><a href="https://telemetr.io/en/channels">Telemetr</a></li>
+ <li><a href="https://telemetr.io/en/channels">Telemetr.io</a></li>
   <p>Analyze Telegram Channels.</p>
+ <li><a href="https://telemetr.me/">Telemtr.me</a></li>
+  <p>Analyze Telegram Channels</p>
  <li><a href="https://www.telemetryapp.io/">Telemetry</a></li>  
   <p>Telemetry provides the most comprehensive and impactful Telegram insights for you and your team.</p>
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
@@ -105,6 +107,8 @@
   <p>A search engine to search for channels, groups, bots and users on Telegram.</p>
  <li><a href="https://tdirectory.me/">Telegram Directory</a></li> 
   <p>Discover Popular Telegram Channels, Groups, Bots and Games.</p>
+ <li><a href="https://limits.tginfo.me/en">Telegram Limits</a></li>
+  <p>Telegram uses limits to ensure that users follow Fair Usage Policy and to keep the service running.</p>
  <li><a href="https://xtea.io/ts_en.html#gsc.tab=0">Telegram Search Engine</a></li> 
   <p>Search for Channels, Bots & Groups.</p>
  <li><a href="https://github.com/SocialLinks-IO/telegram-similar-channels">Telegram Simialr Channels</a></li> 
